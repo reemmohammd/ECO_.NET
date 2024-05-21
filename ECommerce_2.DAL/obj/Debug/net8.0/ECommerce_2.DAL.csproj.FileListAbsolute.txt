@@ -1,0 +1,15 @@
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\bin\Debug\net8.0\ECommerce_2.DAL.deps.json
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\bin\Debug\net8.0\ECommerce_2.DAL.runtimeconfig.json
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\bin\Debug\net8.0\ECommerce_2.DAL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\bin\Debug\net8.0\ECommerce_2.DAL.pdb
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.csproj.AssemblyReference.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.AssemblyInfoInputs.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.AssemblyInfo.cs
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\refint\ECommerce_2.DAL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.pdb
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.genruntimeconfig.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ref\ECommerce_2.DAL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.DAL\obj\Debug\net8.0\ECommerce_2.DAL.sourcelink.json

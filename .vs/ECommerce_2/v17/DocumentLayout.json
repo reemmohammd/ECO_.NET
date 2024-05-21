@@ -1,0 +1,916 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\e239d589-4d11-4611-a83f-3d5fe883d72f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\product\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\product\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\context\\abilitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\context\\abilitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\producrsrepo\\iproductsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\producrsrepo\\iproductsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\producrsrepo\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\producrsrepo\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\seviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\seviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\ordersrepo\\ordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\ordersrepo\\ordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\cartsrepo\\cartsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\cartsrepo\\cartsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\product\\getproductdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\product\\getproductdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\seviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\seviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\ecommerce_2.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\ecommerce_2.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.api\\ecommerce_2.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11C7F1DA-503A-4590-9A8B-57F09E896546}|ECommerce_2.API\\ECommerce_2.API.csproj|solutionrelative:ecommerce_2.api\\ecommerce_2.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\cart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\cart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\cart\\icartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\cart\\icartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\cartsrepo\\icartsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\cartsrepo\\icartsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\cart\\editquantityprocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\cart\\editquantityprocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\repos\\ordersrepo\\iordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\repos\\ordersrepo\\iordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\migrations\\20240511101304_editproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\migrations\\20240511101304_editproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\7edcd4d7-796a-45ae-86ba-228d44b19c5f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\order\\getorderhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\order\\getorderhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\dtos\\order\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\dtos\\order\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.bl\\manager\\order\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E666E3-A1BE-4E9B-B59C-BBD3A41AC38F}|ECommerce_2.BL\\ECommerce_2.BL.csproj|solutionrelative:ecommerce_2.bl\\manager\\order\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\ecommerce_2.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\ecommerce_2.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\models\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\models\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|c:\\users\\hp-iti\\source\\repos\\ecommerce_2\\ecommerce_2.dal\\migrations\\20240508210543_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F054120E-E2F9-4452-8FB8-D470FAC3F940}|ECommerce_2.DAL\\ECommerce_2.DAL.csproj|solutionrelative:ecommerce_2.dal\\migrations\\20240508210543_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABIAAABwmZmZmZktwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:44:47.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Program.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Program.cs",
+              "ViewState": "AQIAADsAAABAZmZmZmYkwFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:04:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:46:01.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\e239d589-4d11-4611-a83f-3d5fe883d72f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e239d589-4d11-4611-a83f-3d5fe883d72f\\secrets.json",
+              "ToolTip": "C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\e239d589-4d11-4611-a83f-3d5fe883d72f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e239d589-4d11-4611-a83f-3d5fe883d72f\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T08:17:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbilityContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Context\\AbilityContext.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Context\\AbilityContext.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Context\\AbilityContext.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Context\\AbilityContext.cs",
+              "ViewState": "AQIAADcAAAAAMzMzMzMrwEYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:05:38.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:55:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Constant.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Constant.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Constant.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:07:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:45:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:16:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABgAAAAgMzMzMzMjwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:45:11.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Product\\IProductManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Product\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Product\\IProductManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Product\\IProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:17:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\CartProduct.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\CartProduct.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\CartProduct.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\CartProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:03:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Product\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Product\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Product\\ProductManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Product\\ProductManager.cs",
+              "ViewState": "AQIAAA4AAACA//////8PwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:17:26.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\ProducrsRepo\\ProductsRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\ProducrsRepo\\ProductsRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\ProducrsRepo\\ProductsRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\ProducrsRepo\\ProductsRepo.cs",
+              "ViewState": "AQIAAAYAAABAMzMzMzMlwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:25:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ECommerce_2.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:31:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Product\\GetProductDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Product\\GetProductDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Product\\GetProductDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Product\\GetProductDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:56:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAABAMzMzMzMbwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:33.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\appsettings.json",
+              "RelativeToolTip": "ECommerce_2.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T20:57:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\ProducrsRepo\\IProductsRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\ProducrsRepo\\IProductsRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\ProducrsRepo\\IProductsRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\ProducrsRepo\\IProductsRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:25:57.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeviceExtention.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\SeviceExtention.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\SeviceExtention.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\SeviceExtention.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\SeviceExtention.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:36:15.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\GenericRepo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\GenericRepo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\GenericRepo\\GenericRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\GenericRepo\\GenericRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:30:54.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\OrdersRepo\\OrdersRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\OrdersRepo\\OrdersRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\OrdersRepo\\OrdersRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\OrdersRepo\\OrdersRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:25:18.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\CartsRepo\\CartsRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\CartsRepo\\CartsRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\CartsRepo\\CartsRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\CartsRepo\\CartsRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:24:14.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetProductDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Product\\GetProductDetailsDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Product\\GetProductDetailsDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Product\\GetProductDetailsDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Product\\GetProductDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:56:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:15:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SeviceExtention.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\SeviceExtention.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\SeviceExtention.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\SeviceExtention.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\SeviceExtention.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:02:12.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ECommerce_2.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\ECommerce_2.BL.csproj",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\ECommerce_2.BL.csproj",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\ECommerce_2.BL.csproj",
+              "RelativeToolTip": "ECommerce_2.BL\\ECommerce_2.BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T13:40:57.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ECommerce_2.API.csproj",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\ECommerce_2.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce_2.API\\ECommerce_2.API.csproj",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.API\\ECommerce_2.API.csproj",
+              "RelativeToolTip": "ECommerce_2.API\\ECommerce_2.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T13:40:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Cart\\CartManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Cart\\CartManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Cart\\CartManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Cart\\CartManager.cs",
+              "ViewState": "AQIAAAIAAAAgMzMzMzMbwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:21:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICartManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Cart\\ICartManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Cart\\ICartManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Cart\\ICartManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Cart\\ICartManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:21:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAMAAABYZmZmZmYkwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:02:43.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\Order.cs",
+              "ViewState": "AQIAAAgAAADw//////8TwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:22.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICartsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\CartsRepo\\ICartsRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\CartsRepo\\ICartsRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\CartsRepo\\ICartsRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\CartsRepo\\ICartsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:24:29.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditQuantityProCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Cart\\EditQuantityProCartDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Cart\\EditQuantityProCartDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Cart\\EditQuantityProCartDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Cart\\EditQuantityProCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:57:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Cart\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Cart\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Cart\\AddToCartDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Cart\\AddToCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:42:21.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IOrdersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\OrdersRepo\\IOrdersRepo.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Repos\\OrdersRepo\\IOrdersRepo.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Repos\\OrdersRepo\\IOrdersRepo.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Repos\\OrdersRepo\\IOrdersRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:25:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Cart.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:03.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240511101304_editProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240511101304_editProductDetails.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240511101304_editProductDetails.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240511101304_editProductDetails.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240511101304_editProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:13:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\7edcd4d7-796a-45ae-86ba-228d44b19c5f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7edcd4d7-796a-45ae-86ba-228d44b19c5f\\secrets.json",
+              "ToolTip": "C:\\Users\\HP-ITI\\AppData\\Roaming\\Microsoft\\UserSecrets\\7edcd4d7-796a-45ae-86ba-228d44b19c5f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7edcd4d7-796a-45ae-86ba-228d44b19c5f\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T15:48:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\User\\LoginDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\User\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:55:31.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:13.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Order\\OrderManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Order\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Order\\OrderManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Order\\OrderManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:26:11.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetOrderHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Order\\GetOrderHistoryDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Order\\GetOrderHistoryDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Order\\GetOrderHistoryDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Order\\GetOrderHistoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:29:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Order\\AddOrderDto.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Dtos\\Order\\AddOrderDto.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Dtos\\Order\\AddOrderDto.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Dtos\\Order\\AddOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:29:46.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Order\\IOrderManager.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.BL\\Manager\\Order\\IOrderManager.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.BL\\Manager\\Order\\IOrderManager.cs",
+              "RelativeToolTip": "ECommerce_2.BL\\Manager\\Order\\IOrderManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:26:13.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ECommerce_2.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\ECommerce_2.DAL.csproj",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\ECommerce_2.DAL.csproj",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\ECommerce_2.DAL.csproj",
+              "RelativeToolTip": "ECommerce_2.DAL\\ECommerce_2.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T13:41:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "User2.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\User2.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Models\\User2.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Models\\User2.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Models\\User2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:59:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240508210543_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240508210543_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240508210543_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240508210543_InitialCreate.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240508210543_InitialCreate.cs",
+              "ViewState": "AQIAACkAAAAAzczMzMwmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:05:43.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240507120917_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240507120917_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:09:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240507113635_updateUser4.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240507113635_updateUser4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:36:35.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240507113523_updateUser3.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240507113523_updateUser3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:35:23.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240507113410_updateUser2.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240507113410_updateUser2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:34:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240507113124_updateUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs",
+              "RelativeDocumentMoniker": "ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs",
+              "ToolTip": "C:\\Users\\HP-ITI\\source\\repos\\ECommerce_2\\ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs",
+              "RelativeToolTip": "ECommerce_2.DAL\\Migrations\\20240507113124_updateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:31:25.177Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 877,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

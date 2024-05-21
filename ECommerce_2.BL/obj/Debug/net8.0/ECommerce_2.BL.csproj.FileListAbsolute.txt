@@ -1,0 +1,16 @@
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\bin\Debug\net8.0\ECommerce_2.BL.deps.json
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\bin\Debug\net8.0\ECommerce_2.BL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\bin\Debug\net8.0\ECommerce_2.BL.pdb
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\bin\Debug\net8.0\ECommerce_2.DAL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\bin\Debug\net8.0\ECommerce_2.DAL.pdb
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.csproj.AssemblyReference.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.AssemblyInfoInputs.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.AssemblyInfo.cs
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.csproj.CoreCompileInputs.cache
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerc.60C4A44B.Up2Date
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\refint\ECommerce_2.BL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.pdb
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ref\ECommerce_2.BL.dll
+C:\Users\HP-ITI\source\repos\ECommerce_2\ECommerce_2.BL\obj\Debug\net8.0\ECommerce_2.BL.sourcelink.json
