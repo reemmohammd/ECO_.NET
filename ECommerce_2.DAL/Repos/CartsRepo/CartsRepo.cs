@@ -34,6 +34,7 @@ public class CartsRepo : GenericRepo<Cart>, ICartsRepo
                 CartProducts = new List<CartProduct>()
             };
             _Context.Set<Cart>().Add(cart);
+            _Context.SaveChanges();
         }
 
         // Create a new cart item based on the provided productId and quantity
