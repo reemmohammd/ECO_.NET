@@ -16,4 +16,4 @@ This project is an E-Commerce API built using .NET that allows users to register
 ## Base URL
 https://localhost:7166
 ## Vedio Link to run the project using Postman :
-Replace `https://drive.google.com/drive/folders/1oO5AzPJ-fHZmATAsVTYxs8yI0fwkMsGs?usp=sharing`
+https://drive.google.com/drive/folders/1oO5AzPJ-fHZmATAsVTYxs8yI0fwkMsGs?usp=sharing
